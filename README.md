@@ -211,5 +211,5 @@ MagicStream/
 
 **Himanshu Singh Yadav**
 - GitHub: [@Himanshusinghyadavup61](https://github.com/Himanshusinghyadavup61)
-- Project: [MagicStream-Gen-AI-Movie-Streaming-Platform](https://github.com/Himanshusinghyadavup61/MagicStream-Gen-AI-Movie-Streaming-Platform)
+
 
