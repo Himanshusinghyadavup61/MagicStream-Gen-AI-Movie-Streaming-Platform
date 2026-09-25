@@ -4,6 +4,8 @@
 
 ### *Spatial UI • AI Sentiment Review Analysis • High-Performance Go Backend*
 
+**Made with ❤️ by [Himanshu Singh Yadav](https://github.com/Himanshusinghyadavup61)**
+
 [![React](https://img.shields.io/badge/Frontend-React_19-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Build-Vite_6-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Go](https://img.shields.io/badge/Backend-Go_1.24-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
@@ -202,4 +204,12 @@ MagicStream/
 ├── magic-stream-seed-data/      # JSON seed files & database initialization scripts
 └── README.md                    # Project documentation
 ```
+
+---
+
+## 👨‍💻 Author
+
+**Himanshu Singh Yadav**
+- GitHub: [@Himanshusinghyadavup61](https://github.com/Himanshusinghyadavup61)
+- Project: [MagicStream-Gen-AI-Movie-Streaming-Platform](https://github.com/Himanshusinghyadavup61/MagicStream-Gen-AI-Movie-Streaming-Platform)
 
